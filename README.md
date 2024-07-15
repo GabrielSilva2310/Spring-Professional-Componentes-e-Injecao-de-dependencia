@@ -37,6 +37,11 @@ cd Spring-Professional-Componentes-e-Injecao-de-dependencia
 ./mvnw spring-boot:run
 ```
 
+# Competências avaliadas no desafio
+- Criação de projeto Spring Boot
+- Configuração de componentes Spring e injeção de dependência
+- Implementação de projeto de componentes
+
 # Autor
 
 Gabriel Da Silva 
